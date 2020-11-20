@@ -8,7 +8,7 @@ FARCI provides an efficient implementation of neuronal connectome inference from
 
 ## References
 
-Saber Meamardoost, Mahasweta Bhattacharya, EunJung Hwang, Takaki Komiyama, Claudia Mewes, Linbing Wang, Ying Zhang, Rudiyanto Gunawan. FARCI: Fast and Robust Connectome Inference [Abstract](https://www.biorxiv.org/content/10.1101/2020.10.07.330175v1)
+Meamardoost, S., Bhattacharya, M., Hwang, E.J., Komiyama, T., Mewes, C.K., Wang, L., Zhang, Y. and Gunawan, R., 2020. FARCI: Fast and Robust Connectome Inference.  [Abstract](https://www.biorxiv.org/content/10.1101/2020.10.07.330175v1)
 
 ## Acknowledgement
 
