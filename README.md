@@ -4,6 +4,9 @@
 
 
 FARCI provides an efficient implementation of neuronal connectome inference from Calcium imaging neuronal activity data. FARCI outputs a partial correlation matrix, which is depicted as a circular graph, representing the neuronal connectome. When neuronal spatial information is available, the neuronal connectome also accounts for the position of neurons.
+  
+The repository contains two datasets from the [Neural Connectomics Challenge](https://connectomics.chalearn.org/). 
+10 more *in-silico* dataset generated using [NAOMi](https://www.sciencedirect.com/science/article/abs/pii/S0165027021001084) toolbox can be downloaded from [here](https://drive.google.com/drive/folders/1buXtW0HUcJZubryjNc4-hCgP8BpAlcJX).
 
 ## References
 
